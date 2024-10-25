@@ -24,8 +24,7 @@ function compute_bmi() {
     text = "Overweight";
   }
 
-  original = condition.innerHTML;
-  condition.innerHTML = original + " " + text;
+  condition.innerHTML = "Weight Condition:" + " " + text;
 
 }
 
