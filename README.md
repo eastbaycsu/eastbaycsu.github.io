@@ -1,8 +1,10 @@
 # eastbaycsu.github.io
-Build an online store with product listings, a shopping cart, and a simple checkout.
 
-- Basic Features: Product catalog pages, shopping cart add/remove, quantity updates, basic checkout form.
+Web app to log and track fitness activities.
 
-- Enhanced Features: User login, product search & filtering, responsive design, order summary page.
+- Basic Features: Activity logging (date, type, duration), summary table, edit/delete entries.
 
-- Advanced Features: Payment gateway integration (Stripe/PayPal), inventory management, admin dashboard with analytics.
+- Enhanced Features: Charts of weekly/monthly totals, goal setting, user profiles.
+
+- Advanced Features: Integration with wearable APIs, progress notifications, social sharing of achievements.
+
