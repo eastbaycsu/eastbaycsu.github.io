@@ -1,4 +1,6 @@
-# eastbaycsu.github.io
+# My Class Project for CS351
+
+**Project Name: Guess the Number**
 
 Game where the player guesses a random number.
 
